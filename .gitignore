@@ -1,0 +1,15 @@
+# DEPENDÊNCIAS NODE
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# CONFIGURAÇÕES DE AMBIENTE
+.env
+
+# CONFIGURAÇÕES DE IDE
+.vscode/
+.idea/
+
+# BACKUPS E TEMPORÁRIOS
+*.bak 
+*.tmp 
