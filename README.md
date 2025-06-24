@@ -56,11 +56,6 @@ npm install
 node backend/server.js
 ```
 
-6. Acesse o sistema no navegador:
-```
-http://localhost:3000
-```
-
 ## 📚 Aprendizados
 
 Durante o desenvolvimento, aprendi:
